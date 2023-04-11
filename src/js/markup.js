@@ -29,4 +29,5 @@ export function createMarkup(photos) {
     </p>
   </div>
 </div>`;
+  
 }

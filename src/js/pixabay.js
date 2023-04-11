@@ -21,4 +21,5 @@ export async function getPictures(searchQuery) {
     Notiflix.Notify.failure('Something went wrong! Please retry');
     console.log(error);
   }
+  
 }
